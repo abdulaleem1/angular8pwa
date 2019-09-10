@@ -1,0 +1,86 @@
+{
+  "configVersion": 1,
+  "timestamp": 1568123012513,
+  "index": "https://abdulaleem1.github.io/angular8pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://abdulaleem1.github.io/angular8pwa/favicon.ico",
+        "https://abdulaleem1.github.io/angular8pwa/index.html",
+        "https://abdulaleem1.github.io/angular8pwa/main-es2015.9ab692b4b56a8b28ea2b.js",
+        "https://abdulaleem1.github.io/angular8pwa/main-es5.fc75120ebae7ed7736b9.js",
+        "https://abdulaleem1.github.io/angular8pwa/polyfills-es2015.27661dfa98f6332c27dc.js",
+        "https://abdulaleem1.github.io/angular8pwa/polyfills-es5.4e06eb653a3c8a2d581f.js",
+        "https://abdulaleem1.github.io/angular8pwa/runtime-es2015.858f8dd898b75fe86926.js",
+        "https://abdulaleem1.github.io/angular8pwa/runtime-es5.741402d1d47331ce975c.js",
+        "https://abdulaleem1.github.io/angular8pwa/scripts.ea9a7b51b5073e2a08c5.js",
+        "https://abdulaleem1.github.io/angular8pwa/styles.39141c20cd68b561de6b.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-128x128.png",
+        "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-144x144.png",
+        "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-152x152.png",
+        "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-192x192.png",
+        "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-384x384.png",
+        "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-512x512.png",
+        "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-72x72.png",
+        "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-96x96.png",
+        "https://abdulaleem1.github.io/angular8pwa/assets/images/angular-logo.svg",
+        "https://abdulaleem1.github.io/angular8pwa/assets/styles/global.scss",
+        "https://abdulaleem1.github.io/angular8pwa/assets/styles/splash-screen.scss"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://abdulaleem1.github.io/angular8pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://abdulaleem1.github.io/angular8pwa/assets/images/angular-logo.svg": "0b3394341548880427c38ed78beb990863a4e8cb",
+    "https://abdulaleem1.github.io/angular8pwa/assets/styles/global.scss": "053140980388584f74a5a042150202af76e3d4d5",
+    "https://abdulaleem1.github.io/angular8pwa/assets/styles/splash-screen.scss": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "https://abdulaleem1.github.io/angular8pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://abdulaleem1.github.io/angular8pwa/index.html": "b866dadb427597bee680bbf7ca4cab75d4744c9d",
+    "https://abdulaleem1.github.io/angular8pwa/main-es2015.9ab692b4b56a8b28ea2b.js": "f4750f44489bb172ed6ed3bfa3d6bad816de98dc",
+    "https://abdulaleem1.github.io/angular8pwa/main-es5.fc75120ebae7ed7736b9.js": "46ffd75f78e96087903d330b27913833a9d0689d",
+    "https://abdulaleem1.github.io/angular8pwa/polyfills-es2015.27661dfa98f6332c27dc.js": "77f974dd2b186031cfc4f4526d96db4efcd39353",
+    "https://abdulaleem1.github.io/angular8pwa/polyfills-es5.4e06eb653a3c8a2d581f.js": "f84a71ef6c7a788b5fe701bf2405313d7766a66d",
+    "https://abdulaleem1.github.io/angular8pwa/runtime-es2015.858f8dd898b75fe86926.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://abdulaleem1.github.io/angular8pwa/runtime-es5.741402d1d47331ce975c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://abdulaleem1.github.io/angular8pwa/scripts.ea9a7b51b5073e2a08c5.js": "a8a5453ceebaca214d2bd4e38ebde605f9122ca4",
+    "https://abdulaleem1.github.io/angular8pwa/styles.39141c20cd68b561de6b.css": "ff7e3c449ab487e9772a0b469da449e91de7be70"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
