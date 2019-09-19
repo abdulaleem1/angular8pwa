@@ -1,5 +1,12 @@
-# Angular8StarterKit
+# Angular8PWAStarterKit
 
+This is an angular 8 starter kit application converted to a PWA( Progressive Web app)
+
+PWA Version:
+Demo site: https://abdulaleem1.github.io/angular8pwa/
+
+Non-PWA Version
+Repository: https://github.com/abdulaleem1/Angular-8-skeleton-project
 Demo site: https://abdulaleem1.github.io/Angular-8-skeleton-project/
 
 The application demonstrates how to preload the data before angular is bootstrapped. The application can be used to get a headstart in seting up your angular 8 application.
